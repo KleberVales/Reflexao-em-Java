@@ -13,3 +13,6 @@ Você precisa completar o código na classe Solution para:
 4. Imprimir os nomes desses métodos no formato indicado.
 
 ### Detalhes Técnicos
+1. Classe Student:
+   * É uma classe que possui atributos privados (name, id, email) e métodos públicos (getName, setId, setEmail, entre outros).
+   * O desafio não exige que você modifique essa classe, apenas trabalhe com ela usando a classe Solution.
