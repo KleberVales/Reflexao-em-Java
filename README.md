@@ -19,3 +19,8 @@ Você precisa completar o código na classe Solution para:
   
 2. Classe Solution:
    * É a classe onde você escreverá o código para resolver o problema. O foco será usar a classe Class do Java e seus métodos de reflexão, como getDeclaredMethods() ou getMethods().
+  
+3. Saída esperada:
+   * Os nomes dos métodos da classe Student, impressos em ordem alfabética. Por exemplo:
+Copiar código
+
