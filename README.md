@@ -11,3 +11,5 @@ Você precisa completar o código na classe Solution para:
 2. Obter todos os métodos da classe Student, incluindo os públicos e herdados.
 3. Ordenar os métodos alfabeticamente pelo nome.
 4. Imprimir os nomes desses métodos no formato indicado.
+
+### Detalhes Técnicos
