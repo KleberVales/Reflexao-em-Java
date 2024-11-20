@@ -16,3 +16,6 @@ Você precisa completar o código na classe Solution para:
 1. Classe Student:
    * É uma classe que possui atributos privados (name, id, email) e métodos públicos (getName, setId, setEmail, entre outros).
    * O desafio não exige que você modifique essa classe, apenas trabalhe com ela usando a classe Solution.
+  
+2. Classe Solution:
+   * É a classe onde você escreverá o código para resolver o problema. O foco será usar a classe Class do Java e seus métodos de reflexão, como getDeclaredMethods() ou getMethods().
