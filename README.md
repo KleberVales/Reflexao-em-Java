@@ -23,4 +23,9 @@ Você precisa completar o código na classe Solution para:
 3. Saída esperada:
    * Os nomes dos métodos da classe Student, impressos em ordem alfabética. Por exemplo:
 Copiar código
+![imagens/img1.png](imagens/img1.png)
+
+4. Sem Entrada/Saída Padrão:
+   * Não há entrada de dados (como Scanner) ou saída final visível. O código será avaliado pelo comportamento.
+
 
